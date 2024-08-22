@@ -46,7 +46,6 @@ This Python script monitors the price of a specific cryptocurrency from the "cry
 
 4. **Change the interval** by adjusting the `time.sleep(10)` value to set the frequency of price checks in seconds.
 
-## Example Output
 
 ### user-agent you can find your current User-Agent string by searching for "my user agent" on Google.
 
