@@ -7,9 +7,9 @@ This Python script monitors the price of a specific cryptocurrency from the "cry
 #you can find your current User-Agent string by searching for "my user agent" on Google.
 
 #Prerequisites:
-Python 3.x
-requests library
-beautifulsoup4 library
-lxml parser
+Python 3.x,
+requests library,
+beautifulsoup4 library,
+lxml parser,
 
 
